@@ -11200,7 +11200,7 @@ pre {
 .header {
   height: 100vh;
   max-height: 900px;
-  background: url(../imgs/main.jpg) no-repeat center center fixed;
+  background: url("https://cdn1.sisiplus.co.id/media/sisiplus/asset/uploads/artikel/q07YuprbwDLR4Hk4HubHrEDoCxmQFjun2OgvP0hP.jpg") no-repeat center center fixed;
   background-size: cover;
   min-height: 750px;
 }
@@ -11265,7 +11265,7 @@ pre {
 }
 
 .has-img-bg {
-  background: url(../imgs/about-section.jpg) no-repeat center center;
+  background: url("https://radarpekalongan.bacakoran.co/upload/69c48ca9777d5a364a37c2ef3451bdba.jpg") no-repeat center center;
   background-size: cover;
 }
 
