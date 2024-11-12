@@ -10,5 +10,5 @@ import (
 func main() {
 	router := mux.NewRouter()
 	router.PathPrefix("/").Handler(http.FileServer(rice.MustFindBox("public_html").HTTPBox()))
-	http.ListenAndServe(":2000",router)
+	http.ListenAndServe(":3000", router)
 }
